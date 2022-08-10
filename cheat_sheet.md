@@ -1,3 +1,3 @@
 # Cheat Sheet
 
-This is a cheat cheat listing some popular commands
+This is a cheat cheat listing some popular terminal commands!
